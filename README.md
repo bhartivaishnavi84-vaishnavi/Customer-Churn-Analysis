@@ -42,4 +42,4 @@ The Customer Churn Analysis Dashboard is an interactive Power BI project designe
 Data Analytics | Business Intelligence | Power BI
 
 ## Author
-Vaishnavi Gohavarti
+Vaishnavi Bharti
